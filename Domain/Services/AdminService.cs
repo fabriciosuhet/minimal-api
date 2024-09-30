@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace minimal_api.infrastructure.Db
+namespace minimal_api.Domain.Services
 {
-    public class DbContext
+    public class AdminService
     {
         
     }
