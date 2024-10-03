@@ -136,3 +136,4 @@ D:\projetos\minimal-api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.
 D:\projetos\minimal-api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\projetos\minimal-api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\projetos\minimal-api\obj\Debug\net8.0\minimal-api.sourcelink.json
+D:\projetos\minimal-api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
